@@ -1,0 +1,13 @@
+pandas
+wikipedia
+SpeechRecognition
+pygame
+python3-weather-api
+pyowm
+pyaudio
+pyttsx3
+pyttsx
+nltk
+numpy
+pyjokes
+googletrans
